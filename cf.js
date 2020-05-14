@@ -11,4 +11,4 @@ var celsius=+prompt ('Enter the temperature in celsius');
 typeof celsius;
 var Fahrenheit=(celsius*1.8+32);
 console.log(Fahrenheit); 
-alert('Fahrenheit');
+alert(Fahrenheit);
