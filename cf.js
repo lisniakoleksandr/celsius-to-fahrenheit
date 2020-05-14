@@ -7,8 +7,8 @@
 //F=C'*1.8+32
 'use strict'
 
-var celsius=+prompt ('Enter the temperature in celsius');
-typeof celsius;
-var Fahrenheit=(celsius*1.8+32);
+var celsius=+prompt ('Enter the temperature in Celsius');
+typeof Celsius;
+var Fahrenheit=(Celsius*1.8+32);
 console.log(Fahrenheit); 
 alert(Fahrenheit);
